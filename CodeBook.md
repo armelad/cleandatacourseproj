@@ -1,10 +1,11 @@
 # General information
 This project was performed with the following assumptions:
-1. The data for the clean up and transformation is downloaded and saved into  the folder named **"dataset"** (i.e. no routinves for download and unzip files were inculded).
+1. The data for the clean up and transformation is downloaded and saved into  the folder named **"dataset"** (i.e. no functions for download and unzip files were included).
 2. External libraries _reshape2_, _plyr_, _dplyr_ and _data.table_ were used for the transformations to tidy dataset.
 
 # The data
 The following data is used in the transformations:
+```
 _/dataset/activity_labels.txt_ - activity labels
 _/dataset/features.txt_ - measurements names
 _/dataset/test/X_test.txt_ - the test data set
@@ -14,14 +15,16 @@ _/dataset/train/X_train.txt_ - the train data set
 _/dataset/train/y_train.txt_ - the train labels
 _/dataset/train/subject_train.txt_ - the train subject ids
 
+```
+
 # Transformations 
 The main transformation of the inital data to merge the training and the test datasets to create one dataset is performed via function **f**. The function contains the following local variables:
 
 * **act_labels** - activity labels
 * **ft_names** - names of the measurements
 * **test_dst/train_dst** - Training and Test sets
-* **test_activities/train_activities** - Training and Test activities
-* **test_subjects/train_subjects**  - Training and Test subject ids
+* **test_activities/train_activities** - Train and Test activities
+* **test_subjects/train_subjects**  - Train and Test subject ids
 
 The function **f** uses cbind and rbind functions to merge the datasets and returns untidy merged training and test datasets.
 
