@@ -38,8 +38,6 @@ Then function _melt_ from the library _reshape2_ is used to tidy the dataset. Ch
 |2	|2	        |standing	|tBodyAcc-mean()-X |0.28602671   |
 |3	|2	        |standing	|tBodyAcc-mean()-X |0.27548482   |
 |4	|2	        |standing	|tBodyAcc-mean()-X |0.27029822   |
-|-------|---------------|---------------|------------------|-------------|
-
 
 Then _group_by_ function from _dplyr_ library is used to group the dataset by subject,activity,measurement and then summarized via _summarize_ _dplyr_ function to satsfy the requirement of the task #5 to create a separate dataset which is assigned to variable **res2**.
 
