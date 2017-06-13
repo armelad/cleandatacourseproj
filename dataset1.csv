@@ -1,0 +1,1001 @@
+"","subject","activity","measurement","value"
+"1",2,"standing","tBodyAcc-mean()-X",0.25717778
+"2",2,"standing","tBodyAcc-mean()-X",0.28602671
+"3",2,"standing","tBodyAcc-mean()-X",0.27548482
+"4",2,"standing","tBodyAcc-mean()-X",0.27029822
+"5",2,"standing","tBodyAcc-mean()-X",0.27483295
+"6",2,"standing","tBodyAcc-mean()-X",0.27921995
+"7",2,"standing","tBodyAcc-mean()-X",0.27974586
+"8",2,"standing","tBodyAcc-mean()-X",0.27460055
+"9",2,"standing","tBodyAcc-mean()-X",0.27252874
+"10",2,"standing","tBodyAcc-mean()-X",0.2757457
+"11",2,"standing","tBodyAcc-mean()-X",0.27859589
+"12",2,"standing","tBodyAcc-mean()-X",0.27915178
+"13",2,"standing","tBodyAcc-mean()-X",0.27454383
+"14",2,"standing","tBodyAcc-mean()-X",0.26906631
+"15",2,"standing","tBodyAcc-mean()-X",0.27557925
+"16",2,"standing","tBodyAcc-mean()-X",0.28193083
+"17",2,"standing","tBodyAcc-mean()-X",0.31107792
+"18",2,"standing","tBodyAcc-mean()-X",0.26232825
+"19",2,"standing","tBodyAcc-mean()-X",0.28841575
+"20",2,"standing","tBodyAcc-mean()-X",0.27116593
+"21",2,"standing","tBodyAcc-mean()-X",0.25309467
+"22",2,"standing","tBodyAcc-mean()-X",0.27133883
+"23",2,"standing","tBodyAcc-mean()-X",0.29926682
+"24",2,"standing","tBodyAcc-mean()-X",0.29389749
+"25",2,"standing","tBodyAcc-mean()-X",0.27563911
+"26",2,"standing","tBodyAcc-mean()-X",0.27225459
+"27",2,"standing","tBodyAcc-mean()-X",0.27642711
+"28",2,"standing","tBodyAcc-mean()-X",0.28016952
+"29",2,"standing","tBodyAcc-mean()-X",0.27746102
+"30",2,"standing","tBodyAcc-mean()-X",0.28837469
+"31",2,"standing","tBodyAcc-mean()-X",0.28590496
+"32",2,"sitting","tBodyAcc-mean()-X",0.29648714
+"33",2,"sitting","tBodyAcc-mean()-X",0.27723542
+"34",2,"sitting","tBodyAcc-mean()-X",0.2782907
+"35",2,"sitting","tBodyAcc-mean()-X",0.27815992
+"36",2,"sitting","tBodyAcc-mean()-X",0.27664638
+"37",2,"sitting","tBodyAcc-mean()-X",0.27829493
+"38",2,"sitting","tBodyAcc-mean()-X",0.27505303
+"39",2,"sitting","tBodyAcc-mean()-X",0.27486428
+"40",2,"sitting","tBodyAcc-mean()-X",0.27871074
+"41",2,"sitting","tBodyAcc-mean()-X",0.27822455
+"42",2,"sitting","tBodyAcc-mean()-X",0.27625455
+"43",2,"sitting","tBodyAcc-mean()-X",0.27574674
+"44",2,"sitting","tBodyAcc-mean()-X",0.28028279
+"45",2,"sitting","tBodyAcc-mean()-X",0.28540286
+"46",2,"sitting","tBodyAcc-mean()-X",0.27047249
+"47",2,"sitting","tBodyAcc-mean()-X",0.28022445
+"48",2,"sitting","tBodyAcc-mean()-X",0.27724091
+"49",2,"sitting","tBodyAcc-mean()-X",0.27925474
+"50",2,"sitting","tBodyAcc-mean()-X",0.27981772
+"51",2,"sitting","tBodyAcc-mean()-X",0.27579491
+"52",2,"sitting","tBodyAcc-mean()-X",0.27379132
+"53",2,"sitting","tBodyAcc-mean()-X",0.27609539
+"54",2,"sitting","tBodyAcc-mean()-X",0.27767523
+"55",2,"sitting","tBodyAcc-mean()-X",0.27679437
+"56",2,"laying","tBodyAcc-mean()-X",0.17376905
+"57",2,"laying","tBodyAcc-mean()-X",0.3009048
+"58",2,"laying","tBodyAcc-mean()-X",0.28567994
+"59",2,"laying","tBodyAcc-mean()-X",0.27205902
+"60",2,"laying","tBodyAcc-mean()-X",0.27631974
+"61",2,"laying","tBodyAcc-mean()-X",0.27869543
+"62",2,"laying","tBodyAcc-mean()-X",0.28026202
+"63",2,"laying","tBodyAcc-mean()-X",0.29238966
+"64",2,"laying","tBodyAcc-mean()-X",0.29089459
+"65",2,"laying","tBodyAcc-mean()-X",0.27191593
+"66",2,"laying","tBodyAcc-mean()-X",0.29301384
+"67",2,"laying","tBodyAcc-mean()-X",0.33999093
+"68",2,"laying","tBodyAcc-mean()-X",0.32773332
+"69",2,"laying","tBodyAcc-mean()-X",0.26238254
+"70",2,"laying","tBodyAcc-mean()-X",0.29490692
+"71",2,"laying","tBodyAcc-mean()-X",0.2673108
+"72",2,"laying","tBodyAcc-mean()-X",0.29493279
+"73",2,"laying","tBodyAcc-mean()-X",0.2843065
+"74",2,"laying","tBodyAcc-mean()-X",0.27747775
+"75",2,"laying","tBodyAcc-mean()-X",0.31454279
+"76",2,"laying","tBodyAcc-mean()-X",0.27616038
+"77",2,"laying","tBodyAcc-mean()-X",0.27628845
+"78",2,"laying","tBodyAcc-mean()-X",0.323685
+"79",2,"laying","tBodyAcc-mean()-X",0.27524826
+"80",2,"walking","tBodyAcc-mean()-X",0.20396243
+"81",2,"walking","tBodyAcc-mean()-X",0.24934321
+"82",2,"walking","tBodyAcc-mean()-X",0.32505052
+"83",2,"walking","tBodyAcc-mean()-X",0.30880812
+"84",2,"walking","tBodyAcc-mean()-X",0.26559921
+"85",2,"walking","tBodyAcc-mean()-X",0.18741915
+"86",2,"walking","tBodyAcc-mean()-X",0.28420274
+"87",2,"walking","tBodyAcc-mean()-X",0.35782982
+"88",2,"walking","tBodyAcc-mean()-X",0.31870911
+"89",2,"walking","tBodyAcc-mean()-X",0.32008469
+"90",2,"walking","tBodyAcc-mean()-X",0.19317016
+"91",2,"walking","tBodyAcc-mean()-X",0.19471487
+"92",2,"walking","tBodyAcc-mean()-X",0.34969095
+"93",2,"walking","tBodyAcc-mean()-X",0.30870458
+"94",2,"walking","tBodyAcc-mean()-X",0.21102476
+"95",2,"walking","tBodyAcc-mean()-X",0.29771925
+"96",2,"walking","tBodyAcc-mean()-X",0.33314426
+"97",2,"walking","tBodyAcc-mean()-X",0.22981714
+"98",2,"walking","tBodyAcc-mean()-X",0.23748279
+"99",2,"walking","tBodyAcc-mean()-X",0.33150518
+"100",2,"walking","tBodyAcc-mean()-X",0.26663115
+"101",2,"walking","tBodyAcc-mean()-X",0.24042087
+"102",2,"walking","tBodyAcc-mean()-X",0.29112809
+"103",2,"walking","tBodyAcc-mean()-X",0.35552927
+"104",2,"walking","tBodyAcc-mean()-X",0.28744253
+"105",2,"walking","tBodyAcc-mean()-X",0.1844141
+"106",2,"walking","tBodyAcc-mean()-X",0.25204831
+"107",2,"walking","tBodyAcc-mean()-X",0.33806106
+"108",2,"walking","tBodyAcc-mean()-X",0.29030031
+"109",2,"walking","tBodyAcc-mean()-X",0.26086953
+"110",2,"walking downstairs","tBodyAcc-mean()-X",0.39276304
+"111",2,"walking downstairs","tBodyAcc-mean()-X",0.33322745
+"112",2,"walking downstairs","tBodyAcc-mean()-X",0.31615359
+"113",2,"walking downstairs","tBodyAcc-mean()-X",0.15366105
+"114",2,"walking downstairs","tBodyAcc-mean()-X",0.071035289
+"115",2,"walking downstairs","tBodyAcc-mean()-X",0.33304231
+"116",2,"walking downstairs","tBodyAcc-mean()-X",0.27579996
+"117",2,"walking downstairs","tBodyAcc-mean()-X",0.27138623
+"118",2,"walking downstairs","tBodyAcc-mean()-X",0.42604818
+"119",2,"walking downstairs","tBodyAcc-mean()-X",0.2856233
+"120",2,"walking downstairs","tBodyAcc-mean()-X",0.35480453
+"121",2,"walking downstairs","tBodyAcc-mean()-X",0.39558207
+"122",2,"walking downstairs","tBodyAcc-mean()-X",0.22715659
+"123",2,"walking downstairs","tBodyAcc-mean()-X",0.23483919
+"124",2,"walking downstairs","tBodyAcc-mean()-X",0.23820197
+"125",2,"walking downstairs","tBodyAcc-mean()-X",0.27873663
+"126",2,"walking downstairs","tBodyAcc-mean()-X",0.26374279
+"127",2,"walking downstairs","tBodyAcc-mean()-X",0.30133385
+"128",2,"walking downstairs","tBodyAcc-mean()-X",0.28026398
+"129",2,"walking downstairs","tBodyAcc-mean()-X",0.24393099
+"130",2,"walking downstairs","tBodyAcc-mean()-X",0.28433754
+"131",2,"walking downstairs","tBodyAcc-mean()-X",0.41085939
+"132",2,"walking downstairs","tBodyAcc-mean()-X",0.17766532
+"133",2,"walking downstairs","tBodyAcc-mean()-X",0.20574701
+"134",2,"walking upstairs","tBodyAcc-mean()-X",0.25186651
+"135",2,"walking upstairs","tBodyAcc-mean()-X",0.20906379
+"136",2,"walking upstairs","tBodyAcc-mean()-X",0.23655703
+"137",2,"walking upstairs","tBodyAcc-mean()-X",0.24274255
+"138",2,"walking upstairs","tBodyAcc-mean()-X",0.28158555
+"139",2,"walking upstairs","tBodyAcc-mean()-X",0.18214828
+"140",2,"walking upstairs","tBodyAcc-mean()-X",0.1821957
+"141",2,"walking upstairs","tBodyAcc-mean()-X",0.31178044
+"142",2,"walking upstairs","tBodyAcc-mean()-X",0.25615464
+"143",2,"walking upstairs","tBodyAcc-mean()-X",0.078156973
+"144",2,"walking upstairs","tBodyAcc-mean()-X",0.17991522
+"145",2,"walking upstairs","tBodyAcc-mean()-X",0.28509055
+"146",2,"walking upstairs","tBodyAcc-mean()-X",0.28495022
+"147",2,"walking upstairs","tBodyAcc-mean()-X",0.1982599
+"148",2,"walking upstairs","tBodyAcc-mean()-X",0.25100692
+"149",2,"walking upstairs","tBodyAcc-mean()-X",0.26889811
+"150",2,"walking upstairs","tBodyAcc-mean()-X",0.14838783
+"151",2,"walking upstairs","tBodyAcc-mean()-X",0.073728786
+"152",2,"walking upstairs","tBodyAcc-mean()-X",0.28020794
+"153",2,"walking upstairs","tBodyAcc-mean()-X",0.27452047
+"154",2,"walking upstairs","tBodyAcc-mean()-X",0.24402748
+"155",2,"walking upstairs","tBodyAcc-mean()-X",0.2858303
+"156",2,"walking upstairs","tBodyAcc-mean()-X",0.23646561
+"157",2,"walking upstairs","tBodyAcc-mean()-X",0.2388571
+"158",2,"walking upstairs","tBodyAcc-mean()-X",0.29475553
+"159",2,"standing","tBodyAcc-mean()-X",0.21881237
+"160",2,"standing","tBodyAcc-mean()-X",0.28767511
+"161",2,"standing","tBodyAcc-mean()-X",0.28732862
+"162",2,"standing","tBodyAcc-mean()-X",0.27273142
+"163",2,"standing","tBodyAcc-mean()-X",0.2758409
+"164",2,"standing","tBodyAcc-mean()-X",0.27860714
+"165",2,"standing","tBodyAcc-mean()-X",0.27627058
+"166",2,"standing","tBodyAcc-mean()-X",0.27848792
+"167",2,"standing","tBodyAcc-mean()-X",0.28021898
+"168",2,"standing","tBodyAcc-mean()-X",0.27811098
+"169",2,"standing","tBodyAcc-mean()-X",0.27143024
+"170",2,"standing","tBodyAcc-mean()-X",0.33014802
+"171",2,"standing","tBodyAcc-mean()-X",0.27746452
+"172",2,"standing","tBodyAcc-mean()-X",0.27972876
+"173",2,"standing","tBodyAcc-mean()-X",0.27941259
+"174",2,"standing","tBodyAcc-mean()-X",0.27740299
+"175",2,"standing","tBodyAcc-mean()-X",0.27792121
+"176",2,"standing","tBodyAcc-mean()-X",0.27704497
+"177",2,"standing","tBodyAcc-mean()-X",0.27295758
+"178",2,"standing","tBodyAcc-mean()-X",0.27204575
+"179",2,"standing","tBodyAcc-mean()-X",0.28245689
+"180",2,"standing","tBodyAcc-mean()-X",0.28722297
+"181",2,"standing","tBodyAcc-mean()-X",0.27655316
+"182",2,"sitting","tBodyAcc-mean()-X",0.23981797
+"183",2,"sitting","tBodyAcc-mean()-X",0.23157481
+"184",2,"sitting","tBodyAcc-mean()-X",0.27074746
+"185",2,"sitting","tBodyAcc-mean()-X",0.27160041
+"186",2,"sitting","tBodyAcc-mean()-X",0.2689962
+"187",2,"sitting","tBodyAcc-mean()-X",0.27479909
+"188",2,"sitting","tBodyAcc-mean()-X",0.27879967
+"189",2,"sitting","tBodyAcc-mean()-X",0.27524573
+"190",2,"sitting","tBodyAcc-mean()-X",0.27566806
+"191",2,"sitting","tBodyAcc-mean()-X",0.26569797
+"192",2,"sitting","tBodyAcc-mean()-X",0.27097605
+"193",2,"sitting","tBodyAcc-mean()-X",0.41364162
+"194",2,"sitting","tBodyAcc-mean()-X",0.24841948
+"195",2,"sitting","tBodyAcc-mean()-X",0.28431213
+"196",2,"sitting","tBodyAcc-mean()-X",0.26632973
+"197",2,"sitting","tBodyAcc-mean()-X",0.26902515
+"198",2,"sitting","tBodyAcc-mean()-X",0.27804665
+"199",2,"sitting","tBodyAcc-mean()-X",0.27542397
+"200",2,"sitting","tBodyAcc-mean()-X",0.27933873
+"201",2,"sitting","tBodyAcc-mean()-X",0.2820615
+"202",2,"sitting","tBodyAcc-mean()-X",0.27327371
+"203",2,"sitting","tBodyAcc-mean()-X",0.27540653
+"204",2,"laying","tBodyAcc-mean()-X",0.28764759
+"205",2,"laying","tBodyAcc-mean()-X",0.28981652
+"206",2,"laying","tBodyAcc-mean()-X",0.23247724
+"207",2,"laying","tBodyAcc-mean()-X",0.28001074
+"208",2,"laying","tBodyAcc-mean()-X",0.2889269
+"209",2,"laying","tBodyAcc-mean()-X",0.27077035
+"210",2,"laying","tBodyAcc-mean()-X",0.25720873
+"211",2,"laying","tBodyAcc-mean()-X",0.26881216
+"212",2,"laying","tBodyAcc-mean()-X",0.28168951
+"213",2,"laying","tBodyAcc-mean()-X",0.29122454
+"214",2,"laying","tBodyAcc-mean()-X",0.28651908
+"215",2,"laying","tBodyAcc-mean()-X",0.25854868
+"216",2,"laying","tBodyAcc-mean()-X",0.3038402
+"217",2,"laying","tBodyAcc-mean()-X",0.30362162
+"218",2,"laying","tBodyAcc-mean()-X",0.28786223
+"219",2,"laying","tBodyAcc-mean()-X",0.28312886
+"220",2,"laying","tBodyAcc-mean()-X",0.28062969
+"221",2,"laying","tBodyAcc-mean()-X",0.27683403
+"222",2,"laying","tBodyAcc-mean()-X",0.27066724
+"223",2,"laying","tBodyAcc-mean()-X",0.27326045
+"224",2,"laying","tBodyAcc-mean()-X",0.27398753
+"225",2,"laying","tBodyAcc-mean()-X",0.27585859
+"226",2,"laying","tBodyAcc-mean()-X",0.27714817
+"227",2,"laying","tBodyAcc-mean()-X",0.27456229
+"228",2,"walking","tBodyAcc-mean()-X",0.24860491
+"229",2,"walking","tBodyAcc-mean()-X",0.21690075
+"230",2,"walking","tBodyAcc-mean()-X",0.26222243
+"231",2,"walking","tBodyAcc-mean()-X",0.29659805
+"232",2,"walking","tBodyAcc-mean()-X",0.24016527
+"233",2,"walking","tBodyAcc-mean()-X",0.31286994
+"234",2,"walking","tBodyAcc-mean()-X",0.31649338
+"235",2,"walking","tBodyAcc-mean()-X",0.20894174
+"236",2,"walking","tBodyAcc-mean()-X",0.27124829
+"237",2,"walking","tBodyAcc-mean()-X",0.35341932
+"238",2,"walking","tBodyAcc-mean()-X",0.22839376
+"239",2,"walking","tBodyAcc-mean()-X",0.21535112
+"240",2,"walking","tBodyAcc-mean()-X",0.32555586
+"241",2,"walking","tBodyAcc-mean()-X",0.36545296
+"242",2,"walking","tBodyAcc-mean()-X",0.26780915
+"243",2,"walking","tBodyAcc-mean()-X",0.34002771
+"244",2,"walking","tBodyAcc-mean()-X",0.26426913
+"245",2,"walking","tBodyAcc-mean()-X",0.26580166
+"246",2,"walking","tBodyAcc-mean()-X",0.25477841
+"247",2,"walking","tBodyAcc-mean()-X",0.22294492
+"248",2,"walking","tBodyAcc-mean()-X",0.37962251
+"249",2,"walking","tBodyAcc-mean()-X",0.27911103
+"250",2,"walking","tBodyAcc-mean()-X",0.26173982
+"251",2,"walking","tBodyAcc-mean()-X",0.32915435
+"252",2,"walking","tBodyAcc-mean()-X",0.19549619
+"253",2,"walking","tBodyAcc-mean()-X",0.24387
+"254",2,"walking","tBodyAcc-mean()-X",0.32955877
+"255",2,"walking","tBodyAcc-mean()-X",0.28806864
+"256",2,"walking","tBodyAcc-mean()-X",0.24987037
+"257",2,"walking downstairs","tBodyAcc-mean()-X",0.31930656
+"258",2,"walking downstairs","tBodyAcc-mean()-X",0.12592012
+"259",2,"walking downstairs","tBodyAcc-mean()-X",0.29997571
+"260",2,"walking downstairs","tBodyAcc-mean()-X",0.26012783
+"261",2,"walking downstairs","tBodyAcc-mean()-X",0.2871613
+"262",2,"walking downstairs","tBodyAcc-mean()-X",0.32958399
+"263",2,"walking downstairs","tBodyAcc-mean()-X",0.25184336
+"264",2,"walking downstairs","tBodyAcc-mean()-X",0.24829116
+"265",2,"walking downstairs","tBodyAcc-mean()-X",0.26160863
+"266",2,"walking downstairs","tBodyAcc-mean()-X",0.29960665
+"267",2,"walking downstairs","tBodyAcc-mean()-X",0.25953975
+"268",2,"walking downstairs","tBodyAcc-mean()-X",0.25308441
+"269",2,"walking downstairs","tBodyAcc-mean()-X",0.26156636
+"270",2,"walking downstairs","tBodyAcc-mean()-X",0.31001933
+"271",2,"walking downstairs","tBodyAcc-mean()-X",0.19842455
+"272",2,"walking downstairs","tBodyAcc-mean()-X",0.22867274
+"273",2,"walking downstairs","tBodyAcc-mean()-X",0.4228405
+"274",2,"walking downstairs","tBodyAcc-mean()-X",0.28711862
+"275",2,"walking downstairs","tBodyAcc-mean()-X",0.10222138
+"276",2,"walking downstairs","tBodyAcc-mean()-X",0.21485672
+"277",2,"walking downstairs","tBodyAcc-mean()-X",0.46767458
+"278",2,"walking downstairs","tBodyAcc-mean()-X",0.30835585
+"279",2,"walking downstairs","tBodyAcc-mean()-X",0.29417901
+"280",2,"walking upstairs","tBodyAcc-mean()-X",0.20731083
+"281",2,"walking upstairs","tBodyAcc-mean()-X",0.36261593
+"282",2,"walking upstairs","tBodyAcc-mean()-X",0.27816503
+"283",2,"walking upstairs","tBodyAcc-mean()-X",0.2563942
+"284",2,"walking upstairs","tBodyAcc-mean()-X",0.24683451
+"285",2,"walking upstairs","tBodyAcc-mean()-X",0.29819093
+"286",2,"walking upstairs","tBodyAcc-mean()-X",0.26963228
+"287",2,"walking upstairs","tBodyAcc-mean()-X",0.19648111
+"288",2,"walking upstairs","tBodyAcc-mean()-X",0.19518889
+"289",2,"walking upstairs","tBodyAcc-mean()-X",0.24200036
+"290",2,"walking upstairs","tBodyAcc-mean()-X",0.31856167
+"291",2,"walking upstairs","tBodyAcc-mean()-X",0.28637788
+"292",2,"walking upstairs","tBodyAcc-mean()-X",0.26149147
+"293",2,"walking upstairs","tBodyAcc-mean()-X",0.25438287
+"294",2,"walking upstairs","tBodyAcc-mean()-X",0.22326915
+"295",2,"walking upstairs","tBodyAcc-mean()-X",0.21223054
+"296",2,"walking upstairs","tBodyAcc-mean()-X",0.37772556
+"297",2,"walking upstairs","tBodyAcc-mean()-X",0.36081239
+"298",2,"walking upstairs","tBodyAcc-mean()-X",0.25631314
+"299",2,"walking upstairs","tBodyAcc-mean()-X",0.26294232
+"300",2,"walking upstairs","tBodyAcc-mean()-X",0.27685853
+"301",2,"walking upstairs","tBodyAcc-mean()-X",0.24514236
+"302",2,"walking upstairs","tBodyAcc-mean()-X",0.19783456
+"303",4,"standing","tBodyAcc-mean()-X",0.19918776
+"304",4,"standing","tBodyAcc-mean()-X",0.28638505
+"305",4,"standing","tBodyAcc-mean()-X",0.30882643
+"306",4,"standing","tBodyAcc-mean()-X",0.25756859
+"307",4,"standing","tBodyAcc-mean()-X",0.25955873
+"308",4,"standing","tBodyAcc-mean()-X",0.28314011
+"309",4,"standing","tBodyAcc-mean()-X",0.26517313
+"310",4,"standing","tBodyAcc-mean()-X",0.27008378
+"311",4,"standing","tBodyAcc-mean()-X",0.28273831
+"312",4,"standing","tBodyAcc-mean()-X",0.28113989
+"313",4,"standing","tBodyAcc-mean()-X",0.28014898
+"314",4,"standing","tBodyAcc-mean()-X",0.2817674
+"315",4,"standing","tBodyAcc-mean()-X",0.2842585
+"316",4,"standing","tBodyAcc-mean()-X",0.28260885
+"317",4,"standing","tBodyAcc-mean()-X",0.27944946
+"318",4,"standing","tBodyAcc-mean()-X",0.26896048
+"319",4,"standing","tBodyAcc-mean()-X",0.33525867
+"320",4,"standing","tBodyAcc-mean()-X",0.27186857
+"321",4,"standing","tBodyAcc-mean()-X",0.28200991
+"322",4,"standing","tBodyAcc-mean()-X",0.27568858
+"323",4,"standing","tBodyAcc-mean()-X",0.26911817
+"324",4,"standing","tBodyAcc-mean()-X",0.2734611
+"325",4,"standing","tBodyAcc-mean()-X",0.27321225
+"326",4,"standing","tBodyAcc-mean()-X",0.27596953
+"327",4,"standing","tBodyAcc-mean()-X",0.27963328
+"328",4,"standing","tBodyAcc-mean()-X",0.27581383
+"329",4,"standing","tBodyAcc-mean()-X",0.27380433
+"330",4,"standing","tBodyAcc-mean()-X",0.30611912
+"331",4,"sitting","tBodyAcc-mean()-X",0.19014289
+"332",4,"sitting","tBodyAcc-mean()-X",0.28846121
+"333",4,"sitting","tBodyAcc-mean()-X",0.28155688
+"334",4,"sitting","tBodyAcc-mean()-X",0.27685643
+"335",4,"sitting","tBodyAcc-mean()-X",0.2770617
+"336",4,"sitting","tBodyAcc-mean()-X",0.27513101
+"337",4,"sitting","tBodyAcc-mean()-X",0.27728983
+"338",4,"sitting","tBodyAcc-mean()-X",0.28017578
+"339",4,"sitting","tBodyAcc-mean()-X",0.27581403
+"340",4,"sitting","tBodyAcc-mean()-X",0.27255474
+"341",4,"sitting","tBodyAcc-mean()-X",0.27805019
+"342",4,"sitting","tBodyAcc-mean()-X",0.28852873
+"343",4,"sitting","tBodyAcc-mean()-X",0.28055394
+"344",4,"sitting","tBodyAcc-mean()-X",0.27796689
+"345",4,"sitting","tBodyAcc-mean()-X",0.27539409
+"346",4,"sitting","tBodyAcc-mean()-X",0.27175681
+"347",4,"sitting","tBodyAcc-mean()-X",0.27410952
+"348",4,"sitting","tBodyAcc-mean()-X",0.27799739
+"349",4,"sitting","tBodyAcc-mean()-X",0.28118107
+"350",4,"sitting","tBodyAcc-mean()-X",0.28084628
+"351",4,"sitting","tBodyAcc-mean()-X",0.26870402
+"352",4,"sitting","tBodyAcc-mean()-X",0.26830284
+"353",4,"sitting","tBodyAcc-mean()-X",0.27751716
+"354",4,"sitting","tBodyAcc-mean()-X",0.27872577
+"355",4,"laying","tBodyAcc-mean()-X",0.051028466
+"356",4,"laying","tBodyAcc-mean()-X",0.30861379
+"357",4,"laying","tBodyAcc-mean()-X",0.23647975
+"358",4,"laying","tBodyAcc-mean()-X",0.28035575
+"359",4,"laying","tBodyAcc-mean()-X",0.27731664
+"360",4,"laying","tBodyAcc-mean()-X",0.2771087
+"361",4,"laying","tBodyAcc-mean()-X",0.27732543
+"362",4,"laying","tBodyAcc-mean()-X",0.27748275
+"363",4,"laying","tBodyAcc-mean()-X",0.27506732
+"364",4,"laying","tBodyAcc-mean()-X",0.27642809
+"365",4,"laying","tBodyAcc-mean()-X",0.27806382
+"366",4,"laying","tBodyAcc-mean()-X",0.27674706
+"367",4,"laying","tBodyAcc-mean()-X",0.28585883
+"368",4,"laying","tBodyAcc-mean()-X",0.2733935
+"369",4,"laying","tBodyAcc-mean()-X",0.28029271
+"370",4,"laying","tBodyAcc-mean()-X",0.28978779
+"371",4,"laying","tBodyAcc-mean()-X",0.32779551
+"372",4,"laying","tBodyAcc-mean()-X",0.36526137
+"373",4,"laying","tBodyAcc-mean()-X",0.25596857
+"374",4,"laying","tBodyAcc-mean()-X",0.27825064
+"375",4,"laying","tBodyAcc-mean()-X",0.28369547
+"376",4,"laying","tBodyAcc-mean()-X",0.27322234
+"377",4,"laying","tBodyAcc-mean()-X",0.274189
+"378",4,"laying","tBodyAcc-mean()-X",0.28222232
+"379",4,"laying","tBodyAcc-mean()-X",0.27869661
+"380",4,"laying","tBodyAcc-mean()-X",0.28055182
+"381",4,"laying","tBodyAcc-mean()-X",0.27475392
+"382",4,"laying","tBodyAcc-mean()-X",0.27684005
+"383",4,"laying","tBodyAcc-mean()-X",0.27710557
+"384",4,"laying","tBodyAcc-mean()-X",0.2924326
+"385",4,"walking","tBodyAcc-mean()-X",0.30915404
+"386",4,"walking","tBodyAcc-mean()-X",0.26093585
+"387",4,"walking","tBodyAcc-mean()-X",0.28996373
+"388",4,"walking","tBodyAcc-mean()-X",0.27368944
+"389",4,"walking","tBodyAcc-mean()-X",0.25883749
+"390",4,"walking","tBodyAcc-mean()-X",0.34684312
+"391",4,"walking","tBodyAcc-mean()-X",0.26158945
+"392",4,"walking","tBodyAcc-mean()-X",0.2484134
+"393",4,"walking","tBodyAcc-mean()-X",0.25553983
+"394",4,"walking","tBodyAcc-mean()-X",0.27320412
+"395",4,"walking","tBodyAcc-mean()-X",0.31831507
+"396",4,"walking","tBodyAcc-mean()-X",0.25520113
+"397",4,"walking","tBodyAcc-mean()-X",0.28671326
+"398",4,"walking","tBodyAcc-mean()-X",0.26112918
+"399",4,"walking","tBodyAcc-mean()-X",0.25694564
+"400",4,"walking","tBodyAcc-mean()-X",0.34234961
+"401",4,"walking","tBodyAcc-mean()-X",0.26227824
+"402",4,"walking","tBodyAcc-mean()-X",0.2693487
+"403",4,"walking","tBodyAcc-mean()-X",0.28833576
+"404",4,"walking","tBodyAcc-mean()-X",0.28550945
+"405",4,"walking","tBodyAcc-mean()-X",0.26413773
+"406",4,"walking","tBodyAcc-mean()-X",0.26884884
+"407",4,"walking","tBodyAcc-mean()-X",0.31756167
+"408",4,"walking","tBodyAcc-mean()-X",0.27050501
+"409",4,"walking","tBodyAcc-mean()-X",0.24916439
+"410",4,"walking","tBodyAcc-mean()-X",0.27243408
+"411",4,"walking","tBodyAcc-mean()-X",0.32498849
+"412",4,"walking","tBodyAcc-mean()-X",0.24362795
+"413",4,"walking","tBodyAcc-mean()-X",0.2604804
+"414",4,"walking","tBodyAcc-mean()-X",0.28402036
+"415",4,"walking","tBodyAcc-mean()-X",0.27672301
+"416",4,"walking downstairs","tBodyAcc-mean()-X",0.32860731
+"417",4,"walking downstairs","tBodyAcc-mean()-X",0.22999415
+"418",4,"walking downstairs","tBodyAcc-mean()-X",0.3416868
+"419",4,"walking downstairs","tBodyAcc-mean()-X",0.16422959
+"420",4,"walking downstairs","tBodyAcc-mean()-X",0.29353396
+"421",4,"walking downstairs","tBodyAcc-mean()-X",0.22827325
+"422",4,"walking downstairs","tBodyAcc-mean()-X",0.30233239
+"423",4,"walking downstairs","tBodyAcc-mean()-X",0.3172964
+"424",4,"walking downstairs","tBodyAcc-mean()-X",0.37374556
+"425",4,"walking downstairs","tBodyAcc-mean()-X",0.28426048
+"426",4,"walking downstairs","tBodyAcc-mean()-X",0.14957067
+"427",4,"walking downstairs","tBodyAcc-mean()-X",0.22200404
+"428",4,"walking downstairs","tBodyAcc-mean()-X",0.21602107
+"429",4,"walking downstairs","tBodyAcc-mean()-X",0.26857249
+"430",4,"walking downstairs","tBodyAcc-mean()-X",0.48249021
+"431",4,"walking downstairs","tBodyAcc-mean()-X",0.32140238
+"432",4,"walking downstairs","tBodyAcc-mean()-X",0.21088246
+"433",4,"walking downstairs","tBodyAcc-mean()-X",0.17856694
+"434",4,"walking downstairs","tBodyAcc-mean()-X",0.23349642
+"435",4,"walking downstairs","tBodyAcc-mean()-X",0.27473751
+"436",4,"walking downstairs","tBodyAcc-mean()-X",0.26728659
+"437",4,"walking downstairs","tBodyAcc-mean()-X",0.34839724
+"438",4,"walking downstairs","tBodyAcc-mean()-X",0.33398592
+"439",4,"walking upstairs","tBodyAcc-mean()-X",0.36323991
+"440",4,"walking upstairs","tBodyAcc-mean()-X",0.21150956
+"441",4,"walking upstairs","tBodyAcc-mean()-X",0.14028257
+"442",4,"walking upstairs","tBodyAcc-mean()-X",0.30833231
+"443",4,"walking upstairs","tBodyAcc-mean()-X",0.30127859
+"444",4,"walking upstairs","tBodyAcc-mean()-X",0.33356457
+"445",4,"walking upstairs","tBodyAcc-mean()-X",0.24842031
+"446",4,"walking upstairs","tBodyAcc-mean()-X",0.17402448
+"447",4,"walking upstairs","tBodyAcc-mean()-X",0.33903608
+"448",4,"walking upstairs","tBodyAcc-mean()-X",0.36579586
+"449",4,"walking upstairs","tBodyAcc-mean()-X",0.23488534
+"450",4,"walking upstairs","tBodyAcc-mean()-X",0.17290917
+"451",4,"walking upstairs","tBodyAcc-mean()-X",0.24966739
+"452",4,"walking upstairs","tBodyAcc-mean()-X",0.37154184
+"453",4,"walking upstairs","tBodyAcc-mean()-X",0.38604971
+"454",4,"walking upstairs","tBodyAcc-mean()-X",0.27420703
+"455",4,"walking upstairs","tBodyAcc-mean()-X",0.24881813
+"456",4,"walking upstairs","tBodyAcc-mean()-X",0.28987434
+"457",4,"walking upstairs","tBodyAcc-mean()-X",0.27175142
+"458",4,"walking upstairs","tBodyAcc-mean()-X",0.25342313
+"459",4,"walking upstairs","tBodyAcc-mean()-X",0.33411519
+"460",4,"walking upstairs","tBodyAcc-mean()-X",0.34863245
+"461",4,"walking upstairs","tBodyAcc-mean()-X",0.26105522
+"462",4,"walking upstairs","tBodyAcc-mean()-X",0.29821999
+"463",4,"walking upstairs","tBodyAcc-mean()-X",0.27901789
+"464",4,"walking upstairs","tBodyAcc-mean()-X",0.24934673
+"465",4,"walking upstairs","tBodyAcc-mean()-X",0.28096328
+"466",4,"walking upstairs","tBodyAcc-mean()-X",0.26011522
+"467",4,"standing","tBodyAcc-mean()-X",0.36712484
+"468",4,"standing","tBodyAcc-mean()-X",0.19050003
+"469",4,"standing","tBodyAcc-mean()-X",0.31023328
+"470",4,"standing","tBodyAcc-mean()-X",0.29749006
+"471",4,"standing","tBodyAcc-mean()-X",0.27799381
+"472",4,"standing","tBodyAcc-mean()-X",0.28148819
+"473",4,"standing","tBodyAcc-mean()-X",0.27885312
+"474",4,"standing","tBodyAcc-mean()-X",0.2854892
+"475",4,"standing","tBodyAcc-mean()-X",0.28141963
+"476",4,"standing","tBodyAcc-mean()-X",0.27151202
+"477",4,"standing","tBodyAcc-mean()-X",0.2701509
+"478",4,"standing","tBodyAcc-mean()-X",0.27543487
+"479",4,"standing","tBodyAcc-mean()-X",0.27566389
+"480",4,"standing","tBodyAcc-mean()-X",0.28341065
+"481",4,"standing","tBodyAcc-mean()-X",0.28319449
+"482",4,"standing","tBodyAcc-mean()-X",0.27608047
+"483",4,"standing","tBodyAcc-mean()-X",0.39858287
+"484",4,"standing","tBodyAcc-mean()-X",0.26641823
+"485",4,"standing","tBodyAcc-mean()-X",0.28072709
+"486",4,"standing","tBodyAcc-mean()-X",0.28124873
+"487",4,"standing","tBodyAcc-mean()-X",0.27333711
+"488",4,"standing","tBodyAcc-mean()-X",0.27413712
+"489",4,"standing","tBodyAcc-mean()-X",0.27753373
+"490",4,"standing","tBodyAcc-mean()-X",0.28102791
+"491",4,"standing","tBodyAcc-mean()-X",0.28302122
+"492",4,"standing","tBodyAcc-mean()-X",0.27710382
+"493",4,"standing","tBodyAcc-mean()-X",0.27450554
+"494",4,"standing","tBodyAcc-mean()-X",0.27135016
+"495",4,"sitting","tBodyAcc-mean()-X",0.079402186
+"496",4,"sitting","tBodyAcc-mean()-X",0.28204284
+"497",4,"sitting","tBodyAcc-mean()-X",0.28472725
+"498",4,"sitting","tBodyAcc-mean()-X",0.27583242
+"499",4,"sitting","tBodyAcc-mean()-X",0.27231528
+"500",4,"sitting","tBodyAcc-mean()-X",0.27099024
+"501",4,"sitting","tBodyAcc-mean()-X",0.2642178
+"502",4,"sitting","tBodyAcc-mean()-X",0.26619674
+"503",4,"sitting","tBodyAcc-mean()-X",0.28617733
+"504",4,"sitting","tBodyAcc-mean()-X",0.28599478
+"505",4,"sitting","tBodyAcc-mean()-X",0.26800319
+"506",4,"sitting","tBodyAcc-mean()-X",0.27493336
+"507",4,"sitting","tBodyAcc-mean()-X",0.27825684
+"508",4,"sitting","tBodyAcc-mean()-X",0.27549278
+"509",4,"sitting","tBodyAcc-mean()-X",0.27528208
+"510",4,"sitting","tBodyAcc-mean()-X",0.31210237
+"511",4,"sitting","tBodyAcc-mean()-X",0.27742856
+"512",4,"sitting","tBodyAcc-mean()-X",0.27780483
+"513",4,"sitting","tBodyAcc-mean()-X",0.27725952
+"514",4,"sitting","tBodyAcc-mean()-X",0.2761973
+"515",4,"sitting","tBodyAcc-mean()-X",0.27395934
+"516",4,"sitting","tBodyAcc-mean()-X",0.26716515
+"517",4,"sitting","tBodyAcc-mean()-X",0.26021014
+"518",4,"sitting","tBodyAcc-mean()-X",0.27084629
+"519",4,"sitting","tBodyAcc-mean()-X",0.2855496
+"520",4,"sitting","tBodyAcc-mean()-X",0.28384658
+"521",4,"laying","tBodyAcc-mean()-X",-0.27033343
+"522",4,"laying","tBodyAcc-mean()-X",0.35770991
+"523",4,"laying","tBodyAcc-mean()-X",0.26299648
+"524",4,"laying","tBodyAcc-mean()-X",0.25903815
+"525",4,"laying","tBodyAcc-mean()-X",0.28407807
+"526",4,"laying","tBodyAcc-mean()-X",0.29224468
+"527",4,"laying","tBodyAcc-mean()-X",0.28900955
+"528",4,"laying","tBodyAcc-mean()-X",0.2807251
+"529",4,"laying","tBodyAcc-mean()-X",0.26654807
+"530",4,"laying","tBodyAcc-mean()-X",0.25779981
+"531",4,"laying","tBodyAcc-mean()-X",0.26238894
+"532",4,"laying","tBodyAcc-mean()-X",0.27740118
+"533",4,"laying","tBodyAcc-mean()-X",0.061186573
+"534",4,"laying","tBodyAcc-mean()-X",0.34391723
+"535",4,"laying","tBodyAcc-mean()-X",0.26942456
+"536",4,"laying","tBodyAcc-mean()-X",0.27537018
+"537",4,"laying","tBodyAcc-mean()-X",0.28422452
+"538",4,"laying","tBodyAcc-mean()-X",0.27924636
+"539",4,"laying","tBodyAcc-mean()-X",0.27861241
+"540",4,"laying","tBodyAcc-mean()-X",0.27367494
+"541",4,"laying","tBodyAcc-mean()-X",0.27657213
+"542",4,"laying","tBodyAcc-mean()-X",0.27831789
+"543",4,"laying","tBodyAcc-mean()-X",0.27248973
+"544",4,"laying","tBodyAcc-mean()-X",0.27721839
+"545",4,"walking","tBodyAcc-mean()-X",0.29163418
+"546",4,"walking","tBodyAcc-mean()-X",0.28512039
+"547",4,"walking","tBodyAcc-mean()-X",0.24066899
+"548",4,"walking","tBodyAcc-mean()-X",0.30247452
+"549",4,"walking","tBodyAcc-mean()-X",0.28243899
+"550",4,"walking","tBodyAcc-mean()-X",0.29491553
+"551",4,"walking","tBodyAcc-mean()-X",0.2504735
+"552",4,"walking","tBodyAcc-mean()-X",0.23922113
+"553",4,"walking","tBodyAcc-mean()-X",0.33770701
+"554",4,"walking","tBodyAcc-mean()-X",0.26852186
+"555",4,"walking","tBodyAcc-mean()-X",0.24843563
+"556",4,"walking","tBodyAcc-mean()-X",0.26889439
+"557",4,"walking","tBodyAcc-mean()-X",0.30344228
+"558",4,"walking","tBodyAcc-mean()-X",0.29192158
+"559",4,"walking","tBodyAcc-mean()-X",0.26841076
+"560",4,"walking","tBodyAcc-mean()-X",0.30029053
+"561",4,"walking","tBodyAcc-mean()-X",0.27454548
+"562",4,"walking","tBodyAcc-mean()-X",0.28836911
+"563",4,"walking","tBodyAcc-mean()-X",0.26482439
+"564",4,"walking","tBodyAcc-mean()-X",0.31564506
+"565",4,"walking","tBodyAcc-mean()-X",0.30447714
+"566",4,"walking","tBodyAcc-mean()-X",0.20046704
+"567",4,"walking","tBodyAcc-mean()-X",0.26030918
+"568",4,"walking","tBodyAcc-mean()-X",0.30906248
+"569",4,"walking","tBodyAcc-mean()-X",0.30166119
+"570",4,"walking","tBodyAcc-mean()-X",0.20956471
+"571",4,"walking","tBodyAcc-mean()-X",0.27821911
+"572",4,"walking","tBodyAcc-mean()-X",0.32661005
+"573",4,"walking","tBodyAcc-mean()-X",0.26980626
+"574",4,"walking downstairs","tBodyAcc-mean()-X",0.36400551
+"575",4,"walking downstairs","tBodyAcc-mean()-X",0.35510843
+"576",4,"walking downstairs","tBodyAcc-mean()-X",0.36403235
+"577",4,"walking downstairs","tBodyAcc-mean()-X",0.21899076
+"578",4,"walking downstairs","tBodyAcc-mean()-X",0.21748354
+"579",4,"walking downstairs","tBodyAcc-mean()-X",0.22571795
+"580",4,"walking downstairs","tBodyAcc-mean()-X",0.23403677
+"581",4,"walking downstairs","tBodyAcc-mean()-X",0.3708507
+"582",4,"walking downstairs","tBodyAcc-mean()-X",0.2586033
+"583",4,"walking downstairs","tBodyAcc-mean()-X",0.30990241
+"584",4,"walking downstairs","tBodyAcc-mean()-X",0.23899183
+"585",4,"walking downstairs","tBodyAcc-mean()-X",0.40689452
+"586",4,"walking downstairs","tBodyAcc-mean()-X",0.35804906
+"587",4,"walking downstairs","tBodyAcc-mean()-X",0.12166437
+"588",4,"walking downstairs","tBodyAcc-mean()-X",0.16016873
+"589",4,"walking downstairs","tBodyAcc-mean()-X",0.34577011
+"590",4,"walking downstairs","tBodyAcc-mean()-X",0.26170209
+"591",4,"walking downstairs","tBodyAcc-mean()-X",0.3789949
+"592",4,"walking downstairs","tBodyAcc-mean()-X",0.26937883
+"593",4,"walking downstairs","tBodyAcc-mean()-X",0.13771755
+"594",4,"walking downstairs","tBodyAcc-mean()-X",0.35522774
+"595",4,"walking downstairs","tBodyAcc-mean()-X",0.27377455
+"596",4,"walking upstairs","tBodyAcc-mean()-X",0.23644039
+"597",4,"walking upstairs","tBodyAcc-mean()-X",0.31364281
+"598",4,"walking upstairs","tBodyAcc-mean()-X",0.33823101
+"599",4,"walking upstairs","tBodyAcc-mean()-X",0.26722577
+"600",4,"walking upstairs","tBodyAcc-mean()-X",0.24148213
+"601",4,"walking upstairs","tBodyAcc-mean()-X",0.27492864
+"602",4,"walking upstairs","tBodyAcc-mean()-X",0.19479704
+"603",4,"walking upstairs","tBodyAcc-mean()-X",0.19108755
+"604",4,"walking upstairs","tBodyAcc-mean()-X",0.23864352
+"605",4,"walking upstairs","tBodyAcc-mean()-X",0.37661057
+"606",4,"walking upstairs","tBodyAcc-mean()-X",0.39366628
+"607",4,"walking upstairs","tBodyAcc-mean()-X",0.26265802
+"608",4,"walking upstairs","tBodyAcc-mean()-X",0.23088375
+"609",4,"walking upstairs","tBodyAcc-mean()-X",0.2957943
+"610",4,"walking upstairs","tBodyAcc-mean()-X",0.18529287
+"611",4,"walking upstairs","tBodyAcc-mean()-X",0.15940435
+"612",4,"walking upstairs","tBodyAcc-mean()-X",0.29807391
+"613",4,"walking upstairs","tBodyAcc-mean()-X",0.21463291
+"614",4,"walking upstairs","tBodyAcc-mean()-X",0.20637424
+"615",4,"walking upstairs","tBodyAcc-mean()-X",0.30506435
+"616",4,"walking upstairs","tBodyAcc-mean()-X",0.32496752
+"617",4,"walking upstairs","tBodyAcc-mean()-X",0.28750332
+"618",4,"walking upstairs","tBodyAcc-mean()-X",0.21894807
+"619",4,"walking upstairs","tBodyAcc-mean()-X",0.1791572
+"620",9,"standing","tBodyAcc-mean()-X",0.27911531
+"621",9,"standing","tBodyAcc-mean()-X",0.28054459
+"622",9,"standing","tBodyAcc-mean()-X",0.27220598
+"623",9,"standing","tBodyAcc-mean()-X",0.27142722
+"624",9,"standing","tBodyAcc-mean()-X",0.28388166
+"625",9,"standing","tBodyAcc-mean()-X",0.28114415
+"626",9,"standing","tBodyAcc-mean()-X",0.27893183
+"627",9,"standing","tBodyAcc-mean()-X",0.27755079
+"628",9,"standing","tBodyAcc-mean()-X",0.2738738
+"629",9,"standing","tBodyAcc-mean()-X",0.2759053
+"630",9,"standing","tBodyAcc-mean()-X",0.30239387
+"631",9,"standing","tBodyAcc-mean()-X",0.27010979
+"632",9,"standing","tBodyAcc-mean()-X",0.27436017
+"633",9,"standing","tBodyAcc-mean()-X",0.27576294
+"634",9,"standing","tBodyAcc-mean()-X",0.27633541
+"635",9,"standing","tBodyAcc-mean()-X",0.2750132
+"636",9,"standing","tBodyAcc-mean()-X",0.27788523
+"637",9,"standing","tBodyAcc-mean()-X",0.28287427
+"638",9,"standing","tBodyAcc-mean()-X",0.29365488
+"639",9,"standing","tBodyAcc-mean()-X",0.28757138
+"640",9,"standing","tBodyAcc-mean()-X",0.26459293
+"641",9,"standing","tBodyAcc-mean()-X",0.27010488
+"642",9,"sitting","tBodyAcc-mean()-X",0.23379765
+"643",9,"sitting","tBodyAcc-mean()-X",0.29227472
+"644",9,"sitting","tBodyAcc-mean()-X",0.28873745
+"645",9,"sitting","tBodyAcc-mean()-X",0.28146396
+"646",9,"sitting","tBodyAcc-mean()-X",0.27577107
+"647",9,"sitting","tBodyAcc-mean()-X",0.27581207
+"648",9,"sitting","tBodyAcc-mean()-X",0.28033541
+"649",9,"sitting","tBodyAcc-mean()-X",0.27949435
+"650",9,"sitting","tBodyAcc-mean()-X",0.2758823
+"651",9,"sitting","tBodyAcc-mean()-X",0.27659813
+"652",9,"sitting","tBodyAcc-mean()-X",0.27869959
+"653",9,"sitting","tBodyAcc-mean()-X",0.23968895
+"654",9,"sitting","tBodyAcc-mean()-X",0.30353079
+"655",9,"sitting","tBodyAcc-mean()-X",0.27393338
+"656",9,"sitting","tBodyAcc-mean()-X",0.27545496
+"657",9,"sitting","tBodyAcc-mean()-X",0.27922977
+"658",9,"sitting","tBodyAcc-mean()-X",0.28152183
+"659",9,"sitting","tBodyAcc-mean()-X",0.27710335
+"660",9,"sitting","tBodyAcc-mean()-X",0.26872938
+"661",9,"sitting","tBodyAcc-mean()-X",0.27550916
+"662",9,"sitting","tBodyAcc-mean()-X",0.28086926
+"663",9,"sitting","tBodyAcc-mean()-X",0.27962823
+"664",9,"sitting","tBodyAcc-mean()-X",0.27731027
+"665",9,"sitting","tBodyAcc-mean()-X",0.27669713
+"666",9,"sitting","tBodyAcc-mean()-X",0.27757833
+"667",9,"laying","tBodyAcc-mean()-X",-0.41627026
+"668",9,"laying","tBodyAcc-mean()-X",0.39232475
+"669",9,"laying","tBodyAcc-mean()-X",0.2586773
+"670",9,"laying","tBodyAcc-mean()-X",0.2060255
+"671",9,"laying","tBodyAcc-mean()-X",0.17617081
+"672",9,"laying","tBodyAcc-mean()-X",0.22729781
+"673",9,"laying","tBodyAcc-mean()-X",0.29116623
+"674",9,"laying","tBodyAcc-mean()-X",0.27181137
+"675",9,"laying","tBodyAcc-mean()-X",0.27523237
+"676",9,"laying","tBodyAcc-mean()-X",0.28351827
+"677",9,"laying","tBodyAcc-mean()-X",0.28838273
+"678",9,"laying","tBodyAcc-mean()-X",0.29275667
+"679",9,"laying","tBodyAcc-mean()-X",0.11384184
+"680",9,"laying","tBodyAcc-mean()-X",0.21684883
+"681",9,"laying","tBodyAcc-mean()-X",0.27161479
+"682",9,"laying","tBodyAcc-mean()-X",0.28402103
+"683",9,"laying","tBodyAcc-mean()-X",0.28598248
+"684",9,"laying","tBodyAcc-mean()-X",0.31987501
+"685",9,"laying","tBodyAcc-mean()-X",0.29583035
+"686",9,"laying","tBodyAcc-mean()-X",0.25230455
+"687",9,"laying","tBodyAcc-mean()-X",0.2705239
+"688",9,"laying","tBodyAcc-mean()-X",0.22404196
+"689",9,"laying","tBodyAcc-mean()-X",0.2538937
+"690",9,"laying","tBodyAcc-mean()-X",0.28716162
+"691",9,"walking","tBodyAcc-mean()-X",0.25692753
+"692",9,"walking","tBodyAcc-mean()-X",0.29299566
+"693",9,"walking","tBodyAcc-mean()-X",0.31213933
+"694",9,"walking","tBodyAcc-mean()-X",0.28917278
+"695",9,"walking","tBodyAcc-mean()-X",0.24773273
+"696",9,"walking","tBodyAcc-mean()-X",0.30160727
+"697",9,"walking","tBodyAcc-mean()-X",0.25926263
+"698",9,"walking","tBodyAcc-mean()-X",0.24894921
+"699",9,"walking","tBodyAcc-mean()-X",0.30394848
+"700",9,"walking","tBodyAcc-mean()-X",0.30218429
+"701",9,"walking","tBodyAcc-mean()-X",0.22433029
+"702",9,"walking","tBodyAcc-mean()-X",0.32201286
+"703",9,"walking","tBodyAcc-mean()-X",0.27249121
+"704",9,"walking","tBodyAcc-mean()-X",0.18843063
+"705",9,"walking","tBodyAcc-mean()-X",0.26826709
+"706",9,"walking","tBodyAcc-mean()-X",0.30712254
+"707",9,"walking","tBodyAcc-mean()-X",0.24244829
+"708",9,"walking","tBodyAcc-mean()-X",0.27162533
+"709",9,"walking","tBodyAcc-mean()-X",0.28905111
+"710",9,"walking","tBodyAcc-mean()-X",0.28784425
+"711",9,"walking","tBodyAcc-mean()-X",0.28140199
+"712",9,"walking","tBodyAcc-mean()-X",0.28188088
+"713",9,"walking","tBodyAcc-mean()-X",0.27321363
+"714",9,"walking","tBodyAcc-mean()-X",0.31520113
+"715",9,"walking","tBodyAcc-mean()-X",0.23387284
+"716",9,"walking","tBodyAcc-mean()-X",0.2954706
+"717",9,"walking downstairs","tBodyAcc-mean()-X",0.36489804
+"718",9,"walking downstairs","tBodyAcc-mean()-X",0.34847866
+"719",9,"walking downstairs","tBodyAcc-mean()-X",0.36589969
+"720",9,"walking downstairs","tBodyAcc-mean()-X",0.40022209
+"721",9,"walking downstairs","tBodyAcc-mean()-X",0.14197324
+"722",9,"walking downstairs","tBodyAcc-mean()-X",0.24738527
+"723",9,"walking downstairs","tBodyAcc-mean()-X",0.40989893
+"724",9,"walking upstairs","tBodyAcc-mean()-X",0.19583759
+"725",9,"walking upstairs","tBodyAcc-mean()-X",0.26206247
+"726",9,"walking upstairs","tBodyAcc-mean()-X",0.3381516
+"727",9,"walking upstairs","tBodyAcc-mean()-X",0.168419
+"728",9,"walking upstairs","tBodyAcc-mean()-X",0.27431063
+"729",9,"walking upstairs","tBodyAcc-mean()-X",0.17677724
+"730",9,"walking upstairs","tBodyAcc-mean()-X",0.35711293
+"731",9,"walking upstairs","tBodyAcc-mean()-X",0.33710384
+"732",9,"walking upstairs","tBodyAcc-mean()-X",0.26991783
+"733",9,"walking upstairs","tBodyAcc-mean()-X",0.21699256
+"734",9,"walking downstairs","tBodyAcc-mean()-X",0.20981027
+"735",9,"walking downstairs","tBodyAcc-mean()-X",0.26933255
+"736",9,"walking downstairs","tBodyAcc-mean()-X",0.23763448
+"737",9,"walking downstairs","tBodyAcc-mean()-X",0.31530699
+"738",9,"walking downstairs","tBodyAcc-mean()-X",0.32082322
+"739",9,"walking downstairs","tBodyAcc-mean()-X",0.20254711
+"740",9,"walking upstairs","tBodyAcc-mean()-X",0.2662233
+"741",9,"walking upstairs","tBodyAcc-mean()-X",0.27341427
+"742",9,"walking upstairs","tBodyAcc-mean()-X",0.1816777
+"743",9,"walking upstairs","tBodyAcc-mean()-X",0.25522432
+"744",9,"walking upstairs","tBodyAcc-mean()-X",0.30273179
+"745",9,"walking upstairs","tBodyAcc-mean()-X",0.26716465
+"746",9,"walking upstairs","tBodyAcc-mean()-X",0.35102469
+"747",9,"walking upstairs","tBodyAcc-mean()-X",0.32179632
+"748",9,"walking downstairs","tBodyAcc-mean()-X",0.20625869
+"749",9,"walking downstairs","tBodyAcc-mean()-X",0.41817187
+"750",9,"walking downstairs","tBodyAcc-mean()-X",0.31846146
+"751",9,"walking downstairs","tBodyAcc-mean()-X",0.21823699
+"752",9,"walking downstairs","tBodyAcc-mean()-X",0.31554245
+"753",9,"walking downstairs","tBodyAcc-mean()-X",0.27064646
+"754",9,"walking downstairs","tBodyAcc-mean()-X",0.21349459
+"755",9,"walking downstairs","tBodyAcc-mean()-X",0.24156215
+"756",9,"walking upstairs","tBodyAcc-mean()-X",0.24835171
+"757",9,"walking upstairs","tBodyAcc-mean()-X",0.16453897
+"758",9,"walking upstairs","tBodyAcc-mean()-X",0.27160132
+"759",9,"walking upstairs","tBodyAcc-mean()-X",0.33131531
+"760",9,"walking upstairs","tBodyAcc-mean()-X",0.25539558
+"761",9,"walking upstairs","tBodyAcc-mean()-X",0.23285205
+"762",9,"walking upstairs","tBodyAcc-mean()-X",0.24507655
+"763",9,"walking upstairs","tBodyAcc-mean()-X",0.25875116
+"764",9,"standing","tBodyAcc-mean()-X",0.36449617
+"765",9,"standing","tBodyAcc-mean()-X",0.33735306
+"766",9,"standing","tBodyAcc-mean()-X",0.27931922
+"767",9,"standing","tBodyAcc-mean()-X",0.27942081
+"768",9,"standing","tBodyAcc-mean()-X",0.28407605
+"769",9,"standing","tBodyAcc-mean()-X",0.2752313
+"770",9,"standing","tBodyAcc-mean()-X",0.27803976
+"771",9,"standing","tBodyAcc-mean()-X",0.28060378
+"772",9,"standing","tBodyAcc-mean()-X",0.27762148
+"773",9,"standing","tBodyAcc-mean()-X",0.28032203
+"774",9,"standing","tBodyAcc-mean()-X",0.27939393
+"775",9,"standing","tBodyAcc-mean()-X",0.31374035
+"776",9,"standing","tBodyAcc-mean()-X",0.2837899
+"777",9,"standing","tBodyAcc-mean()-X",0.27358289
+"778",9,"standing","tBodyAcc-mean()-X",0.27717388
+"779",9,"standing","tBodyAcc-mean()-X",0.27791609
+"780",9,"standing","tBodyAcc-mean()-X",0.27664935
+"781",9,"standing","tBodyAcc-mean()-X",0.27448387
+"782",9,"standing","tBodyAcc-mean()-X",0.27739146
+"783",9,"standing","tBodyAcc-mean()-X",0.28022118
+"784",9,"standing","tBodyAcc-mean()-X",0.27779122
+"785",9,"standing","tBodyAcc-mean()-X",0.27420758
+"786",9,"standing","tBodyAcc-mean()-X",0.27588764
+"787",9,"sitting","tBodyAcc-mean()-X",0.29722137
+"788",9,"sitting","tBodyAcc-mean()-X",0.26525873
+"789",9,"sitting","tBodyAcc-mean()-X",0.27942699
+"790",9,"sitting","tBodyAcc-mean()-X",0.16241983
+"791",9,"sitting","tBodyAcc-mean()-X",0.22108157
+"792",9,"sitting","tBodyAcc-mean()-X",0.044666967
+"793",9,"sitting","tBodyAcc-mean()-X",-0.32564743
+"794",9,"sitting","tBodyAcc-mean()-X",-0.07295394
+"795",9,"sitting","tBodyAcc-mean()-X",0.2566248
+"796",9,"sitting","tBodyAcc-mean()-X",0.29927163
+"797",9,"sitting","tBodyAcc-mean()-X",0.27390768
+"798",9,"sitting","tBodyAcc-mean()-X",0.2470322
+"799",9,"sitting","tBodyAcc-mean()-X",0.19736477
+"800",9,"sitting","tBodyAcc-mean()-X",0.29099603
+"801",9,"sitting","tBodyAcc-mean()-X",0.28461038
+"802",9,"sitting","tBodyAcc-mean()-X",0.27716626
+"803",9,"sitting","tBodyAcc-mean()-X",0.27829848
+"804",9,"sitting","tBodyAcc-mean()-X",0.27792071
+"805",9,"sitting","tBodyAcc-mean()-X",0.27739362
+"806",9,"sitting","tBodyAcc-mean()-X",0.27816319
+"807",9,"sitting","tBodyAcc-mean()-X",0.28148965
+"808",9,"sitting","tBodyAcc-mean()-X",0.28176224
+"809",9,"sitting","tBodyAcc-mean()-X",0.27804236
+"810",9,"sitting","tBodyAcc-mean()-X",0.27888651
+"811",9,"sitting","tBodyAcc-mean()-X",0.28028109
+"812",9,"laying","tBodyAcc-mean()-X",0.33925793
+"813",9,"laying","tBodyAcc-mean()-X",0.28133331
+"814",9,"laying","tBodyAcc-mean()-X",0.27961772
+"815",9,"laying","tBodyAcc-mean()-X",0.2882513
+"816",9,"laying","tBodyAcc-mean()-X",0.29935795
+"817",9,"laying","tBodyAcc-mean()-X",0.24983908
+"818",9,"laying","tBodyAcc-mean()-X",0.20564028
+"819",9,"laying","tBodyAcc-mean()-X",0.24104873
+"820",9,"laying","tBodyAcc-mean()-X",0.28539083
+"821",9,"laying","tBodyAcc-mean()-X",0.29246732
+"822",9,"laying","tBodyAcc-mean()-X",0.27243467
+"823",9,"laying","tBodyAcc-mean()-X",0.3846767
+"824",9,"laying","tBodyAcc-mean()-X",0.28644831
+"825",9,"laying","tBodyAcc-mean()-X",0.27512144
+"826",9,"laying","tBodyAcc-mean()-X",0.3067897
+"827",9,"laying","tBodyAcc-mean()-X",0.25654019
+"828",9,"laying","tBodyAcc-mean()-X",0.17910207
+"829",9,"laying","tBodyAcc-mean()-X",0.25972893
+"830",9,"laying","tBodyAcc-mean()-X",0.3108311
+"831",9,"laying","tBodyAcc-mean()-X",0.28298013
+"832",9,"laying","tBodyAcc-mean()-X",0.28915917
+"833",9,"laying","tBodyAcc-mean()-X",0.28480254
+"834",9,"laying","tBodyAcc-mean()-X",0.27151047
+"835",9,"laying","tBodyAcc-mean()-X",0.27925753
+"836",9,"laying","tBodyAcc-mean()-X",0.32191391
+"837",9,"laying","tBodyAcc-mean()-X",0.31324192
+"838",9,"walking","tBodyAcc-mean()-X",0.25039932
+"839",9,"walking","tBodyAcc-mean()-X",0.30417525
+"840",9,"walking","tBodyAcc-mean()-X",0.24075146
+"841",9,"walking","tBodyAcc-mean()-X",0.26651943
+"842",9,"walking","tBodyAcc-mean()-X",0.30640043
+"843",9,"walking","tBodyAcc-mean()-X",0.28649128
+"844",9,"walking","tBodyAcc-mean()-X",0.24501185
+"845",9,"walking","tBodyAcc-mean()-X",0.30753556
+"846",9,"walking","tBodyAcc-mean()-X",0.2693514
+"847",9,"walking","tBodyAcc-mean()-X",0.28546079
+"848",9,"walking","tBodyAcc-mean()-X",0.24849182
+"849",9,"walking","tBodyAcc-mean()-X",0.24335703
+"850",9,"walking","tBodyAcc-mean()-X",0.33053958
+"851",9,"walking","tBodyAcc-mean()-X",0.34438843
+"852",9,"walking","tBodyAcc-mean()-X",0.29569664
+"853",9,"walking","tBodyAcc-mean()-X",0.27025554
+"854",9,"walking","tBodyAcc-mean()-X",0.26917577
+"855",9,"walking","tBodyAcc-mean()-X",0.28272604
+"856",9,"walking","tBodyAcc-mean()-X",0.30996924
+"857",9,"walking","tBodyAcc-mean()-X",0.22590698
+"858",9,"walking","tBodyAcc-mean()-X",0.30352057
+"859",9,"walking","tBodyAcc-mean()-X",0.24491429
+"860",9,"walking","tBodyAcc-mean()-X",0.29234553
+"861",9,"walking","tBodyAcc-mean()-X",0.27462142
+"862",9,"walking","tBodyAcc-mean()-X",0.26097705
+"863",9,"walking","tBodyAcc-mean()-X",0.35358051
+"864",9,"walking downstairs","tBodyAcc-mean()-X",0.38533814
+"865",9,"walking downstairs","tBodyAcc-mean()-X",0.32900663
+"866",9,"walking downstairs","tBodyAcc-mean()-X",0.14146674
+"867",9,"walking downstairs","tBodyAcc-mean()-X",0.34072802
+"868",9,"walking downstairs","tBodyAcc-mean()-X",0.3761998
+"869",9,"walking downstairs","tBodyAcc-mean()-X",0.17462376
+"870",9,"walking downstairs","tBodyAcc-mean()-X",0.34197761
+"871",9,"walking downstairs","tBodyAcc-mean()-X",0.37950054
+"872",9,"walking downstairs","tBodyAcc-mean()-X",0.2967205
+"873",9,"walking downstairs","tBodyAcc-mean()-X",0.18015059
+"874",9,"walking downstairs","tBodyAcc-mean()-X",0.30884789
+"875",9,"walking downstairs","tBodyAcc-mean()-X",0.20413138
+"876",9,"walking downstairs","tBodyAcc-mean()-X",0.43921224
+"877",9,"walking downstairs","tBodyAcc-mean()-X",0.32998193
+"878",9,"walking upstairs","tBodyAcc-mean()-X",0.23532165
+"879",9,"walking upstairs","tBodyAcc-mean()-X",0.20371726
+"880",9,"walking upstairs","tBodyAcc-mean()-X",0.26284629
+"881",9,"walking upstairs","tBodyAcc-mean()-X",0.27582235
+"882",9,"walking upstairs","tBodyAcc-mean()-X",0.258736
+"883",9,"walking upstairs","tBodyAcc-mean()-X",0.26184945
+"884",9,"walking upstairs","tBodyAcc-mean()-X",0.27094704
+"885",9,"walking upstairs","tBodyAcc-mean()-X",0.30938415
+"886",9,"walking upstairs","tBodyAcc-mean()-X",0.11450563
+"887",9,"walking upstairs","tBodyAcc-mean()-X",0.17564039
+"888",9,"walking upstairs","tBodyAcc-mean()-X",0.2999149
+"889",9,"walking upstairs","tBodyAcc-mean()-X",0.21373692
+"890",9,"walking upstairs","tBodyAcc-mean()-X",0.22278073
+"891",9,"walking upstairs","tBodyAcc-mean()-X",0.37043267
+"892",9,"walking upstairs","tBodyAcc-mean()-X",0.41153032
+"893",9,"walking upstairs","tBodyAcc-mean()-X",0.21338314
+"894",9,"walking upstairs","tBodyAcc-mean()-X",0.18948124
+"895",9,"walking upstairs","tBodyAcc-mean()-X",0.32483554
+"896",9,"walking upstairs","tBodyAcc-mean()-X",0.26179698
+"897",9,"walking upstairs","tBodyAcc-mean()-X",0.23571343
+"898",9,"walking upstairs","tBodyAcc-mean()-X",0.32206355
+"899",9,"walking upstairs","tBodyAcc-mean()-X",0.31997802
+"900",9,"walking upstairs","tBodyAcc-mean()-X",0.28114428
+"901",9,"walking downstairs","tBodyAcc-mean()-X",0.42038362
+"902",9,"walking downstairs","tBodyAcc-mean()-X",0.38995098
+"903",9,"walking downstairs","tBodyAcc-mean()-X",0.16764246
+"904",9,"walking downstairs","tBodyAcc-mean()-X",0.39251918
+"905",9,"walking downstairs","tBodyAcc-mean()-X",0.39960813
+"906",9,"walking downstairs","tBodyAcc-mean()-X",0.10024099
+"907",9,"walking downstairs","tBodyAcc-mean()-X",0.29396836
+"908",10,"standing","tBodyAcc-mean()-X",0.29510434
+"909",10,"standing","tBodyAcc-mean()-X",0.27961678
+"910",10,"standing","tBodyAcc-mean()-X",0.27698005
+"911",10,"standing","tBodyAcc-mean()-X",0.28025154
+"912",10,"standing","tBodyAcc-mean()-X",0.27716063
+"913",10,"standing","tBodyAcc-mean()-X",0.27753135
+"914",10,"standing","tBodyAcc-mean()-X",0.27839931
+"915",10,"standing","tBodyAcc-mean()-X",0.28001981
+"916",10,"standing","tBodyAcc-mean()-X",0.27667475
+"917",10,"standing","tBodyAcc-mean()-X",0.27398109
+"918",10,"standing","tBodyAcc-mean()-X",0.27573119
+"919",10,"standing","tBodyAcc-mean()-X",0.27561892
+"920",10,"standing","tBodyAcc-mean()-X",0.25444826
+"921",10,"standing","tBodyAcc-mean()-X",0.28065406
+"922",10,"standing","tBodyAcc-mean()-X",0.2752244
+"923",10,"standing","tBodyAcc-mean()-X",0.27552605
+"924",10,"standing","tBodyAcc-mean()-X",0.276917
+"925",10,"standing","tBodyAcc-mean()-X",0.2746069
+"926",10,"standing","tBodyAcc-mean()-X",0.2751033
+"927",10,"standing","tBodyAcc-mean()-X",0.28062909
+"928",10,"standing","tBodyAcc-mean()-X",0.2772489
+"929",10,"standing","tBodyAcc-mean()-X",0.27929197
+"930",10,"standing","tBodyAcc-mean()-X",0.27908529
+"931",10,"sitting","tBodyAcc-mean()-X",0.14319011
+"932",10,"sitting","tBodyAcc-mean()-X",0.30420262
+"933",10,"sitting","tBodyAcc-mean()-X",0.27701205
+"934",10,"sitting","tBodyAcc-mean()-X",0.27530064
+"935",10,"sitting","tBodyAcc-mean()-X",0.27758644
+"936",10,"sitting","tBodyAcc-mean()-X",0.27781849
+"937",10,"sitting","tBodyAcc-mean()-X",0.27849569
+"938",10,"sitting","tBodyAcc-mean()-X",0.27591997
+"939",10,"sitting","tBodyAcc-mean()-X",0.27853273
+"940",10,"sitting","tBodyAcc-mean()-X",0.27880166
+"941",10,"sitting","tBodyAcc-mean()-X",0.27629421
+"942",10,"sitting","tBodyAcc-mean()-X",0.27518179
+"943",10,"sitting","tBodyAcc-mean()-X",0.11851475
+"944",10,"sitting","tBodyAcc-mean()-X",0.28685267
+"945",10,"sitting","tBodyAcc-mean()-X",0.29136758
+"946",10,"sitting","tBodyAcc-mean()-X",0.26363105
+"947",10,"sitting","tBodyAcc-mean()-X",0.27428659
+"948",10,"sitting","tBodyAcc-mean()-X",0.2789072
+"949",10,"sitting","tBodyAcc-mean()-X",0.27718075
+"950",10,"sitting","tBodyAcc-mean()-X",0.27709863
+"951",10,"sitting","tBodyAcc-mean()-X",0.27595835
+"952",10,"sitting","tBodyAcc-mean()-X",0.27696654
+"953",10,"sitting","tBodyAcc-mean()-X",0.2773964
+"954",10,"sitting","tBodyAcc-mean()-X",0.27921296
+"955",10,"laying","tBodyAcc-mean()-X",0.67188749
+"956",10,"laying","tBodyAcc-mean()-X",0.28259275
+"957",10,"laying","tBodyAcc-mean()-X",0.25427198
+"958",10,"laying","tBodyAcc-mean()-X",0.28568946
+"959",10,"laying","tBodyAcc-mean()-X",0.27745455
+"960",10,"laying","tBodyAcc-mean()-X",0.27635033
+"961",10,"laying","tBodyAcc-mean()-X",0.27577727
+"962",10,"laying","tBodyAcc-mean()-X",0.27762025
+"963",10,"laying","tBodyAcc-mean()-X",0.27321662
+"964",10,"laying","tBodyAcc-mean()-X",0.27635561
+"965",10,"laying","tBodyAcc-mean()-X",0.27438387
+"966",10,"laying","tBodyAcc-mean()-X",0.27485073
+"967",10,"laying","tBodyAcc-mean()-X",0.28159907
+"968",10,"laying","tBodyAcc-mean()-X",0.27399448
+"969",10,"laying","tBodyAcc-mean()-X",0.26692099
+"970",10,"laying","tBodyAcc-mean()-X",0.07654368
+"971",10,"laying","tBodyAcc-mean()-X",0.33294972
+"972",10,"laying","tBodyAcc-mean()-X",0.24428227
+"973",10,"laying","tBodyAcc-mean()-X",0.27051085
+"974",10,"laying","tBodyAcc-mean()-X",0.28146232
+"975",10,"laying","tBodyAcc-mean()-X",0.28264319
+"976",10,"laying","tBodyAcc-mean()-X",0.27792362
+"977",10,"laying","tBodyAcc-mean()-X",0.27333634
+"978",10,"laying","tBodyAcc-mean()-X",0.27810979
+"979",10,"laying","tBodyAcc-mean()-X",0.28030833
+"980",10,"laying","tBodyAcc-mean()-X",0.27940635
+"981",10,"laying","tBodyAcc-mean()-X",0.28083685
+"982",10,"laying","tBodyAcc-mean()-X",0.2793566
+"983",10,"laying","tBodyAcc-mean()-X",0.27653064
+"984",10,"laying","tBodyAcc-mean()-X",0.2771078
+"985",10,"laying","tBodyAcc-mean()-X",0.2768767
+"986",10,"walking","tBodyAcc-mean()-X",0.18446909
+"987",10,"walking","tBodyAcc-mean()-X",0.31825459
+"988",10,"walking","tBodyAcc-mean()-X",0.33611406
+"989",10,"walking","tBodyAcc-mean()-X",0.20092099
+"990",10,"walking","tBodyAcc-mean()-X",0.25387811
+"991",10,"walking","tBodyAcc-mean()-X",0.32011355
+"992",10,"walking","tBodyAcc-mean()-X",0.26430263
+"993",10,"walking","tBodyAcc-mean()-X",0.20803871
+"994",10,"walking","tBodyAcc-mean()-X",0.34347813
+"995",10,"walking","tBodyAcc-mean()-X",0.34773085
+"996",10,"walking","tBodyAcc-mean()-X",0.22006126
+"997",10,"walking","tBodyAcc-mean()-X",0.24017201
+"998",10,"walking","tBodyAcc-mean()-X",0.32605469
+"999",10,"walking","tBodyAcc-mean()-X",0.34246076
+"1000",10,"walking","tBodyAcc-mean()-X",0.19079141
