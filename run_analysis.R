@@ -97,6 +97,7 @@ res2<- group_by(res, subject,activity,measurement)
 res2<-summarize(res2, value = mean(value))
 setnames(res2, old = c('value'), new = c('average'))
 write.csv(res2, file = "dataset2.csv")
+write.table(res2, file = "dataset2.txt", row.names=FALSE)
 rm(list=ls()) 
 
 

@@ -42,6 +42,6 @@ Then function _melt_ from the library _reshape2_ is used to tidy the dataset. Ch
 Then _group_by_ function from _dplyr_ library is used to group the dataset by subject,activity,measurement and then summarized via _summarize_ _dplyr_ function to satsfy the requirement of the task #5 to create a separate dataset which is assigned to variable **res2**.
 
 Resulting datasets are written on disk with _write.csv_ function:
-**res** is written to dataset1.csv [limited to 1000 observations to save space]
-**res2** is written to dataset2.csv
+**res** is written to _dataset1.csv_ [limited to 1000 observations to save space]
+**res2** is written to _dataset2.csv_ for the repo and dataset2.txt for the submission.
 
